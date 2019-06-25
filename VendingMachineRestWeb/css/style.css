@@ -1,0 +1,21 @@
+.vendingItem {
+  /*padding: 25px;
+   margin: 10px;
+   height: 120px;*/
+  border: 1px solid black;
+  
+}
+
+.form-control {
+  margin: 10px;
+
+}
+
+.btn {
+  margin: 10px;
+  color: orange;
+}
+
+button {
+  margin: auto; 
+}

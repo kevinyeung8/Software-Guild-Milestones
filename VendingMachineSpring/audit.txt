@@ -1,0 +1,3 @@
+2019-04-01T14:36:38.390 : validateInventory ERROR: No Items Available in Inventory.: ID: A1 |ItemName: Coke |Cost: 1.50 |Inventory: 0
+2019-04-01T14:41:49.768 : validateInventory ERROR: No Items Available in Inventory.: ID: A1 |ItemName: Coke |Cost: 1.50 |Inventory: 0
+2019-04-01T14:47:53.293 : validateInventory ERROR: No Items Available in Inventory.: ID: A1 |ItemName: Coke |Cost: 1.50 |Inventory: 0
